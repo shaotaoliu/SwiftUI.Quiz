@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "body": "Which state is the largest one in the United States?",
+        "options": [
+            "California",
+            "Alaska",
+            "Texas",
+            "Florida"
+        ],
+        "answers": [false, true, false, false]
+    },
+    {
+        "id": 2,
+        "body": "Which state is the most populous in the United States?",
+        "options": [
+            "California",
+            "Alaska",
+            "Texas",
+            "Florida"
+        ],
+        "answers": [true, false, false, false]
+    },
+    {
+        "id": 3,
+        "body": "Which states are in the western of the United States?",
+        "options": [
+            "Florida",
+            "California",
+            "Oregon",
+            "New York",
+            "Washington"
+        ],
+        "answers": [false, true, true, false, true]
+    },
+    {
+        "id": 4,
+        "body": "Which city is the most populous city in the United States?",
+        "options": [
+            "Houston",
+            "Washington, D.C.",
+            "Miami",
+            "New York",
+            "Los Angeles"
+        ],
+        "answers": [false, false, false, true, false]
+    },
+    {
+        "id": 5,
+        "body": "Which city is the capital of California?",
+        "options": [
+            "Los Angeles",
+            "San Diego",
+            "San Francisco",
+            "Sacramento"
+        ],
+        "answers": [false, false, false, true]
+    },
+    {
+        "id": 6,
+        "body": "Which cities are in the State of California?",
+        "options": [
+            "Los Angeles",
+            "San Diego",
+            "Las Vegas",
+            "Phoenix",
+            "San Jose"
+        ],
+        "answers": [true, true, false, false, true]
+    },
+    {
+        "id": 7,
+        "body": "Which countries border the United States?",
+        "options": [
+            "Canada",
+            "Japan",
+            "Russia",
+            "Mexico"
+        ],
+        "answers": [true, false, false, true]
+    },
+    {
+        "id": 8,
+        "body": "What is the capital of the United States?",
+        "options": [
+            "Washington, D.C.",
+            "Los Angeles",
+            "New York",
+            "Philadelphia"
+        ],
+        "answers": [true, false, false, false]
+    },
+    {
+        "id": 9,
+        "body": "Where is the Statue of Liberty?",
+        "options": [
+            "Washington, D.C.",
+            "Los Angeles",
+            "New York",
+            "Philadelphia"
+        ],
+        "answers": [false, false, true, false]
+    },
+    {
+        "id": 10,
+        "body": "Who was the first President of the United States?",
+        "options": [
+            "James Madison",
+            "Thomas Jefferson",
+            "John Adams",
+            "George Washington"
+        ],
+        "answers": [false, false, false, true]
+    }
+]
