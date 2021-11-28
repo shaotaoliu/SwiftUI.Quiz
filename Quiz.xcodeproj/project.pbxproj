@@ -20,6 +20,8 @@
 		4A2074492752C62900D51FAF /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A2074482752C62900D51FAF /* ScoreView.swift */; };
 		4A20744B2752CA7B00D51FAF /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A20744A2752CA7B00D51FAF /* HeaderView.swift */; };
 		4A20744D2752D71E00D51FAF /* questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 4A20744C2752D71E00D51FAF /* questions.json */; };
+		4A5980E1275360E500E95548 /* CreditCardFront.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5980E0275360E500E95548 /* CreditCardFront.swift */; };
+		4A5980E3275360EC00E95548 /* CreditCardBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5980E2275360EC00E95548 /* CreditCardBack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		4A2074482752C62900D51FAF /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
 		4A20744A2752CA7B00D51FAF /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		4A20744C2752D71E00D51FAF /* questions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = questions.json; sourceTree = "<group>"; };
+		4A5980E0275360E500E95548 /* CreditCardFront.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardFront.swift; sourceTree = "<group>"; };
+		4A5980E2275360EC00E95548 /* CreditCardBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardBack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				4A20743A275219FA00D51FAF /* CardFront.swift */,
 				4A20743C27521A0100D51FAF /* CardBack.swift */,
 				4A2074382752189700D51FAF /* CardView.swift */,
+				4A5980E0275360E500E95548 /* CreditCardFront.swift */,
+				4A5980E2275360EC00E95548 /* CreditCardBack.swift */,
 			);
 			path = "Business Card";
 			sourceTree = "<group>";
@@ -176,11 +182,13 @@
 				4A20742C2752060100D51FAF /* ContentView.swift in Sources */,
 				4A2074452752B7DF00D51FAF /* ViewModel.swift in Sources */,
 				4A20744327523C4700D51FAF /* QuestionView.swift in Sources */,
+				4A5980E1275360E500E95548 /* CreditCardFront.swift in Sources */,
 				4A20743B275219FA00D51FAF /* CardFront.swift in Sources */,
 				4A2074392752189700D51FAF /* CardView.swift in Sources */,
 				4A20743F2752228D00D51FAF /* FlippingCardView.swift in Sources */,
 				4A20744B2752CA7B00D51FAF /* HeaderView.swift in Sources */,
 				4A20743D27521A0100D51FAF /* CardBack.swift in Sources */,
+				4A5980E3275360EC00E95548 /* CreditCardBack.swift in Sources */,
 				4A20742A2752060100D51FAF /* QuizApp.swift in Sources */,
 				4A2074492752C62900D51FAF /* ScoreView.swift in Sources */,
 			);
